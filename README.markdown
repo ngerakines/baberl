@@ -20,5 +20,5 @@ The baberl.app file is also included for OTP distribution.
 
 # Credits
 
-Kevin A. Smith <kevin@hypotheticalabs.com>
+Kevin A. Smith <kevin@hypotheticalabs.com><br/>
 Nick Gerakines <nick@gerakines.net>
