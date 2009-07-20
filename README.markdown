@@ -18,6 +18,12 @@ Hurray!
 
 The baberl.app file is also included for OTP distribution.
 
+# License
+
+Copyright (c) 2009 Electronic Arts, Inc.
+
+This library was developed by Electronic Arts and is open source under the MIT license.
+
 # Credits
 
 Kevin A. Smith <kevin@hypotheticalabs.com><br/>
